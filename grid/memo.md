@@ -50,7 +50,7 @@
        ` ... `  
 
 
-[![image](https://github.com/user-attachments/assets/957dd6e1-b2d4-4d6d-8382-3687240cf10b)](https://jihye046.github.io/posts/Markdown-Guide/)
+[![image](https://github.com/user-attachments/assets/957dd6e1-b2d4-4d6d-8382-3687240cf10b)]([https://jihye046.github.io/posts/Markdown-Guide/](https://github.com/jihye046/css-tutorial/blob/main/grid/image.css))
 
 [![image](https://github.com/user-attachments/assets/30612ebd-f677-44af-b506-7bc915fe8d22)](https://github.com/jihye046/css-tutorial/blob/main/grid/index.css)
 
