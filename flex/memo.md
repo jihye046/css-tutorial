@@ -12,7 +12,7 @@
 <br>
 
 ## flex-flow
-'flex-direction'과 'flex-wrap'을 한번에 지정할 때 사용하며, 공백으로 구분  
+`flex-direction`과 `flex-wrap`을 한번에 지정할 때 사용하며, 공백으로 구분  
 - 예) `.item { flex-flow: column wrap; }`
 <br>
 
