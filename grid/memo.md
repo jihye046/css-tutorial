@@ -17,7 +17,7 @@
   - ☝ 합치려는 row의 '시작번호 / 끝번호'
   - ✌ 합치려는 row의 '시작번호 / span 합치고자하는 칸 개수'
 
-  ![image](https://github.com/user-attachments/assets/8efd53c9-aa50-4f7f-b34d-7e8e8f0f3639)  
+  [![image](https://github.com/user-attachments/assets/8efd53c9-aa50-4f7f-b34d-7e8e8f0f3639)](https://github.com/jihye046/css-tutorial/blob/main/grid/gridPracC.css)
 
 - 예시
 ![image](https://github.com/user-attachments/assets/3f2d0db4-6461-4d44-8737-ac5c0c401617)  
@@ -54,7 +54,7 @@
 
 [![image](https://github.com/user-attachments/assets/30612ebd-f677-44af-b506-7bc915fe8d22)](https://github.com/jihye046/css-tutorial/blob/main/grid/index.css)
 
-[![image](https://github.com/user-attachments/assets/ce6e1747-2f03-4a5c-89a2-47713a3f5141)](https://github.com/jihye046/css-tutorial/blob/main/grid/index.css)
+![image](https://github.com/user-attachments/assets/ce6e1747-2f03-4a5c-89a2-47713a3f5141)
 
 
 ## MDN
