@@ -1,0 +1,99 @@
+/*body, html {
+    height: 50%;
+}
+*/
+
+/* %: 상위 div(영역)의 크기 내에서 차지할 비율 */
+/* vh: 상위 div(영역)의 크기를 무시하고 윈도우 크기 내에서 차지할 비율 */
+.container {
+    background: beige;
+    height: 80vh; 
+    display: flex;
+    /* 아이템 정렬 */
+    /* flex-direction: row; 수평 정렬(기본) */
+    /* flex-direction: column; 수직 정렬 */
+
+    /* 아이템 배치(1) */
+    /* flex-wrap: nowrap; 한줄로 배치(기본) 되도록 아이템 크기가 조절 */
+    /* flex-wrap: wrap; 아이템 크기에 맞추어 여러줄로 배치 */
+
+    /* direction, wrap를 한번에 설정하는 방법 */
+    flex-flow: row nowrap;
+
+    /* 아이템 배치(2) */
+    /* justify-content: space-around; 앞,뒤,중간 일정한 간격 두고 화면에 꽉 차게 배치 */
+    justify-content: space-between; /* 중간 일정한 간격 두고 화면에 꽉 차게 배치 */
+    /* justify-content: center; 수평-가운데 배치 */
+    align-items: center; /* 수직-가운데 배치 */
+    /* align-items: baseline; */
+    align-content: center;
+}
+
+.item {
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+}
+.item1 {
+    background: #ef9a9a;
+}
+.item2 {
+    background: #f48fb1;
+}
+.item3 {
+    background: #ce93d8;
+}
+.item4 {
+    background: #b39ddb;
+}
+.item5 {
+    background: #90caf9;
+}
+.item6 {
+    background: #a5d6a7;
+}
+.item7 {
+    background: #e6ee9c;
+}
+.item8 {
+    background: #fff59d;
+}
+.item9 {
+    background: #ffcc80;
+}
+.item10 {
+    background: #ffab91;
+}
+.item11 {
+    background: #ef9a9a;
+}
+.item12 {
+    background: #f48fb1;
+}
+.item13 {
+    background: #ce93d8;
+}
+.item14 {
+    background: #b39ddb;
+}
+.item15 {
+    background: #90caf9;
+}
+.item16 {
+    background: #a5d6a7;
+}
+.item17 {
+    background: #e6ee9c;
+}
+.item18 {
+    background: #fff59d;
+}
+.item19 {
+    background: #ffcc80;
+}
+.item20 {
+    background: #ffab91;
+}
+.item21 {
+    background: #ef9a9a;
+}
