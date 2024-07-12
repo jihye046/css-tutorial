@@ -1,0 +1,44 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 3fr 1fr; /* 첫번째 열의 비율(3fr) 두번째 열의 비율(1fr) */
+    grid-template-rows: 100px auto 50px; /* 첫번째 행의 높이(100px) 두번째 행의 높이(auto) 세번째 행의 높이(50px) */
+    grid-template-areas:
+        'header header'
+        'main side'
+        'footer footer'
+}
+
+header, footer {
+    color: white;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+aside {
+    background: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    grid-area: header;
+}
+main {
+    grid-area: main;
+}
+aside {
+    grid-area: side;
+}
+footer {
+    grid-area: footer;
+}
