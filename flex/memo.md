@@ -66,8 +66,8 @@
 <br>
 
 ## MDN
-<a href="https://developer.mozilla.org/ko/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox">MDN - flexbox의 기본 개념
+<a href="https://developer.mozilla.org/ko/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox">MDN - flexbox의 기본 개념  
 <br>
 
-## css code game
+## CSS code game
 <a href="https://flexboxfroggy.com/#ko">![image](https://github.com/user-attachments/assets/2f886526-fada-4035-b8c7-000419619802)
