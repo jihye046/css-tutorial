@@ -21,8 +21,8 @@
 
 - 예시
 ![image](https://github.com/user-attachments/assets/3f2d0db4-6461-4d44-8737-ac5c0c401617)  
-☝ `.item { grid-column: 2 / 5; grid-row: 1 / 3;}`  
-✌ `.item { grid-column: 2 / span 3; grid-row: 1 / span 2; }` 
+☝ `.item2 { grid-column: 2 / 5; grid-row: 1 / 3;}`  
+✌ `.item2 { grid-column: 2 / span 3; grid-row: 1 / span 2; }` 
 <br>
 
 
