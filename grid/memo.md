@@ -1,10 +1,10 @@
-## grid 크기 조절
-- **grid-template-columns**: 열의 크기 조절  
+## grid 행, 열 생성
+- **grid-template-columns**: 열 생성  
   - 예) 100px 크기로 5열 만들기  
     ☝ `.container { grid-template-columns: 100px 100px 100px 100px 100px; }`  
     ✌ `.container { grid-template-columns: repeat(5, 1fr); }`  
 
-- **grid-auto-rows**: 행의 크기 조절  
+- **grid-auto-rows**: 행 생성  
   - 예) 컨텐츠 길이에 따라 크기가 유동적으로 변하되 최소 높이는 150px을 유지하도록  
     ☝ `.container { grid-auto-rows: minmax(150px, auto); }`
 <br>
